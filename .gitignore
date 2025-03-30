@@ -1,16 +1,41 @@
-# Compiled class file
+# Fichiers compilés Java
 *.class
 
-# Log file
+# Fichiers de log
 *.log
 
-# BlueJ files
+# Fichiers spécifiques aux IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+/.vscode/
+
+# Fichiers de système de build (Maven, Gradle, etc.)
+/target/
+/build/
+
+# Fichiers de configuration d'Eclipse
+/.settings/
+/.classpath
+/.project
+
+# Fichiers de sauvegarde créés par les éditeurs de texte
+*~
+*.bak
+*.swp
+
+# Fichiers de configuration spécifiques aux systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers générés pour BlueJ
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
+# Fichiers pour les outils mobiles Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# Fichiers de paquets Java
 *.jar
 *.war
 *.nar
@@ -19,6 +44,14 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# Logs de crash de la machine virtuelle Java
 hs_err_pid*
-replay_pid*
+
+# Ignorer le répertoire de sauvegarde de l'IDE (NetBeans)
+nbproject/
+
+# Ignorer les fichiers liés à la base de données
+*.db
+
+# Ignorer les fichiers temporaires générés par le système
+*.tmp
