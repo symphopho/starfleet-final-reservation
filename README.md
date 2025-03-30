@@ -17,7 +17,7 @@ Fonctionnalités
   Installation
 
 1. Cloner le projet depuis le dépôt Git :
-   git clone https://github.com/username/starfleet.git
+   git clone https://github.com/symphopho/starfleet-final-reservation.git
 2. Accéder au répertoire du projet :
    cd starfleet
 3. Compiler le projet (si vous n'utilisez pas un IDE, compilez avec Maven ou Ant) :
