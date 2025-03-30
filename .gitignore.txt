@@ -1,0 +1,18 @@
+../GitHub/
+../TP3_java/
+../TP5.Traitement d'image/
+../cas4/
+../cours_java/
+../devoir final/
+../gestion_stock/
+../logo_definitif .jpg
+../projet_final_traitement image/
+../projet_java_final/
+../tp todo/
+../tp1_java/
+../tp2_traitement image/
+../tp3_traitement image/
+../tp4-traitmentImage/
+../tp6_traitementImage/
+../tpjour2_java/
+../traitement_image/
